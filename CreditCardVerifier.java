@@ -5,9 +5,9 @@
 	credit card number. The 'Luhn Check' looks to see if the sum of the odd
 	numbers plus the sum of the even numbers (doubled) is divisible by 10.
 
-	@author  Samuel Craig
+	@author  S.Craig
 	@date    10-22-2018
-	@class   CSC120-N01 [Fall 18]
+	
 */
 import java.util.Scanner;
 public class CreditCardValidatorCraigSamuel {
